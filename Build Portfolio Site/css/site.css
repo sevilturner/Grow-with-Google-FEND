@@ -1,0 +1,48 @@
+body {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  color: #2d3c49;
+}
+
+article img {
+  width: 100%;
+}
+
+.space {
+  margin-bottom: 25px;
+}
+
+.logo{
+  width: 100px;
+  height: 100px;
+  border-radius: 80%;
+  margin-top: 30px;
+}
+
+.featured-work {
+  color: #7d97ad;
+  text-transform: none;
+  text-align: left;
+}
+
+.url{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-transform: none;
+}
+
+.info {
+  text-align: right;
+}
+
+@media (min-width: 960px ) {
+  .logo{
+    margin-top: 20px;
+  }
+
+  .image {
+    height: 265px;
+    height: none;
+  }
+}

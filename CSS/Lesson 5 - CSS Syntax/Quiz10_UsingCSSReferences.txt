@@ -1,0 +1,7 @@
+What CSS property is used to italicize text? FONT-STYLE
+
+What CSS property is used to underline text? TEXT-DECORATION
+
+What CSS property is used to uppercase text? TEXT-TRANSFORM
+
+What CSS property is used to bold text? - FONT-WEIGHT
